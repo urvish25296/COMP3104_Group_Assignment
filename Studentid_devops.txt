@@ -1,2 +1,2 @@
-comp 3104
-prof pritesh patel
+This file will contain information about COMP 3104
+DevOps course 
